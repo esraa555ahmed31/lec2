@@ -1,0 +1,62 @@
+$ git init
+$ touch f1.css
+$ git add f1.css
+$ git commit -m "vvvv"
+$ git push origin main
+$ git branch dev
+
+
+$ git push origin dev
+
+
+$ git checkout dev
+
+
+
+$ git branch test
+
+
+$ git push origin test
+
+
+
+
+
+$ touch f2.html
+
+$ touch f3.html
+
+USER@DESKTOP-Q81AAQ7 MINGW64 ~/Desktop/Desktop/ITI/git/lecc2/lec2 (dev)
+$ git add --all
+
+
+
+$ git push origin dev
+
+
+$ git branch test1
+
+$ git checkout main
+
+$ git merge dev
+
+
+$ git push origin main
+ touch task1.txt
+git add task1.txt
+git commite -m "ggg"
+git push origin main
+git push origin :dev
+git branch -D dev
+
+
+
+
+
+
+
+
+$
+
+
+
