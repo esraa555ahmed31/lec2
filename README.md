@@ -9,7 +9,7 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 
 #### contributing
-`<hr>`
+
 pull requests  are welcome for major changes
 ### License
 [MIT](http://a.com)
