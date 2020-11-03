@@ -17,19 +17,6 @@ $ git branch test
 
 
 $ git push origin test
-$ git tag v1
-
-
-$ git push origin v1
-
-
-
-
-$ git log
-
-$ git tag -a v1.2 2d976342b97fa398 -m "add v1.2"
-
-$ git push --tags
 
 
 
@@ -63,6 +50,20 @@ git commite -m "ggg"
 git push origin main
 git push origin :dev
 git branch -D dev
+$ git tag v1
+
+
+$ git push origin v1
+
+
+
+
+$ git log
+
+$ git tag -a v1.2 2d976342b97fa398 -m "add v1.2"
+
+$ git push --tags
+
 
 
 
